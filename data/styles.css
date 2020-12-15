@@ -267,6 +267,9 @@
   font-size:14px;
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -275,6 +278,10 @@
 .text_field2 {
   color:#000000;
   text-align:left;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
 }
 .checkbox {
   text-align:left;
@@ -352,5 +359,8 @@
   font-style:normal;
 }
 .icon {
+}
+.link_button {
+  color:#169BD5;
 }
 textarea, select, input, button { outline: none; }
